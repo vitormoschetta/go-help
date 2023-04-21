@@ -33,7 +33,7 @@ go build main.go
 #### Executar Testes
 
 ```bash 
-go test ./..
+go test ./...
 ```
 
 Obs: Os testes devem estar em um arquivo com o nome `*_test.go` e a função de teste deve começar com `Test`.
